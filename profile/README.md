@@ -1,19 +1,28 @@
-## About Us｜NekoHome 工作室
+## nya~ 欢迎来到 NekoHome
 
-NekoHome 是一个由在校学生组成的独立创作团队，专注 Web 应用、桌宠应用与视觉内容的开发与设计，代表项目为官方网站 nekohome.cc，梅娅桌宠 Meapet，网页工具猫猫求索 dsh.nekohome.cc，以及一系列各个领域的小玩意。
+NekoHome 是一支由在校学生组成的独立创作小队。我们做些让日常轻松一点的东西——网站、桌面与移动端应用，不求功能堆满，只求把一件事做到可靠、好看。
 
-### 我们做三件事
+如果你也有想让日常变好的点子，不限于插件或工具，欢迎来找我们聊聊。
 
-- 产品研发：以网站和实用工具为载体，解决身边真实的小需求
-- 设计表达：坚持简洁、清晰、有辨识度的视觉风格
-- 内容记录：用视频与图文沉淀项目进展，分享思路与经验
+> 简单，诚实，赏心悦目。
 
-### 我们的原则
+### 作品
 
-小团队、快速迭代、版本可回溯——把每个想法做到能上线的程度。
+- [NekoHome](https://nekohome.cc)：官方网站，作品的入口
+- MeaPet 梅娅桌宠：桌面伙伴应用  
+    [PC 端](https://github.com/suan-11/mea-pet-public)  
+    [移动端](https://github.com/llz121517/mea-pet-mobile)
+- [猫猫求索](https://dsh.nekohome.cc)：DSH 代理网关
+- 创意小工具：覆盖多个领域，按需登场
 
-### 合作与加入
+### 链接
 
-欢迎有开发、设计、运营或内容创作意愿的大小同志联系我们，一起把事情做成。就算缺少能力，也欢迎加入 NekoHome 让自己成长。
+|  |  |
+| --- | --- |
+| 邮箱 | [nekohome2026@outlook.com](mailto:nekohome2026@outlook.com) |
+| 仓库 | [组织仓库列表](https://github.com/orgs/NekoHome-Studio/repositories) |
+| 官网 | [nekohome.cc](https://nekohome.cc) |
 
-NekoHome
+### 一起做点什么
+
+无论擅长开发、设计、运营还是内容创作，都欢迎联系我们；一时缺些能力也没关系，慢慢来就好。
