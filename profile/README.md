@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/nekohome-logo.png" alt="NekoHome" width="420">
+</p>
+
 ## nya~ 欢迎来到 NekoHome
 
 NekoHome 是一支由在校学生组成的独立创作小队。我们做些让日常轻松一点的东西——网站、桌面与移动端应用，不求功能堆满，只求把一件事做到可靠、好看。
