@@ -25,7 +25,7 @@ NekoHome 是一支由在校学生组成的独立创作小队。我们做些让�
 | --- | --- |
 | 邮箱 | [nekohome2026@outlook.com](mailto:nekohome2026@outlook.com) |
 | 仓库 | [组织仓库列表](https://github.com/orgs/NekoHome-Studio/repositories) |
-| 官网 | [nekohome.cc](https://nekohome.cc) |
+| 官网 | [nekohome.cc](http://nekohome.cc) |
 
 ### 一起做点什么
 
