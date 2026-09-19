@@ -12,7 +12,7 @@ NekoHome 是一支由在校学生组成的独立创作小队。我们做些让�
 
 ### 作品
 
-- [NekoHome](https://nekohome.cc)：官方网站，作品的入口
+- [NekoHome](http://nekohome.cc)：官方网站，作品的入口
 - MeaPet 梅娅桌宠：桌面伙伴应用  
     [PC 端](https://github.com/suan-11/mea-pet-public)  
     [移动端](https://github.com/llz121517/mea-pet-mobile)
