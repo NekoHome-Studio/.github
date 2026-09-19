@@ -16,7 +16,7 @@ NekoHome 是一支由在校学生组成的独立创作小队。我们做些让�
 - MeaPet 梅娅桌宠：桌面伙伴应用  
     [PC 端](https://github.com/suan-11/mea-pet-public)  
     [移动端](https://github.com/llz121517/mea-pet-mobile)
-- [猫猫求索](https://dsh.nekohome.cc)：DSH 代理网关
+- [猫猫求索]：DSH 代理网关
 - 创意小工具：覆盖多个领域，按需登场
 
 ### 链接
