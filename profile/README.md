@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="assets/nekohome-logo.png" alt="NekoHome" width="420">
-</p>
+## NekoHome
 
-## nya~ 欢迎来到 NekoHome
-
-NekoHome 是一支由在校学生组成的独立创作小队。我们做些让日常轻松一点的东西——网站、桌面与移动端应用，不求功能堆满，只求把一件事做到可靠、好看。
+NekoHome 是一支由在校学生组成的独立创作小队。我们做些让日常轻松一点的东西——网站、桌面与移动端应用。
 
 如果你也有想让日常变好的点子，不限于插件或工具，欢迎来找我们聊聊。
-
-> 做的每样东西，都简单、诚实、赏心悦目。
 
 ### 作品
 
@@ -17,7 +11,6 @@ NekoHome 是一支由在校学生组成的独立创作小队。我们做些让�
     [PC 端](https://github.com/suan-11/mea-pet-public)  
     [移动端](https://github.com/llz121517/mea-pet-mobile)
 - [猫猫求索](https://github.com/NekoHome-Studio/nekoseek)：DSH 代理网关
-- 创意小工具：覆盖多个领域，按需登场
 
 ### 链接
 
@@ -26,7 +19,3 @@ NekoHome 是一支由在校学生组成的独立创作小队。我们做些让�
 | 邮箱 | [nekohome2026@outlook.com](mailto:nekohome2026@outlook.com) |
 | 仓库 | [组织仓库列表](https://github.com/orgs/NekoHome-Studio/repositories) |
 | 官网 | [nekohome.cc](http://nekohome.cc) |
-
-### 一起做点什么
-
-无论擅长开发、设计、运营还是内容创作，都欢迎联系我们；一时缺些能力也没关系，慢慢来就好。
